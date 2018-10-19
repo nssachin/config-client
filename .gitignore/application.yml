@@ -1,9 +1,0 @@
-spring:
-  data:
-    mongodb:
-      username: sachin
-      password: nexus
-      database: feedDB
-      host: localhost
-      port: 27017
-      authentication-database: feedDB
