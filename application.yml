@@ -6,4 +6,4 @@ spring:
       database: feedDB
       host: localhost
       port: 27017
-      authentication-database: feedD
+      authentication-database: feedDB
