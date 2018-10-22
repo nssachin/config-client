@@ -25,7 +25,7 @@ kafka:
       num-partitions: 1
       replication-factor: 1
     -
-      name: some-test5
+      name: some-test6
       num-partitions: 1
       replication-factor: 1
       
