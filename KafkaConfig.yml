@@ -28,4 +28,8 @@ kafka:
       name: some-test6
       num-partitions: 1
       replication-factor: 1
+    -
+      name: some-test7
+      num-partitions: 1
+      replication-factor: 1
       
