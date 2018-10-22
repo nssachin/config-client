@@ -20,4 +20,8 @@ kafka:
       name: another-test3
       num-partitions: 1
       replication-factor: 1
+    -
+      name: another-test4
+      num-partitions: 1
+      replication-factor: 1
       
