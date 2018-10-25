@@ -9,3 +9,6 @@ spring:
       host: localhost
       port: 27017
       authentication-database: feedDB
+db:
+  collection:
+    info: infy.feed
