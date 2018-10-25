@@ -4,7 +4,7 @@ spring:
     
 # HTTP (Tomcat) port
 server:
-  port=8082
+  port:8082
 
 # Configure this Discovery Server
 # Not a client, don't register with yourself
@@ -13,5 +13,5 @@ eureka:
     hostname: localhost
   client:
     fetch-registry: false
-    register-with-eureka=false
-    service-url.defaultZone=http://localhost:2222/eureka
+    register-with-eureka: false
+    service-url.defaultZone: http://localhost:2222/eureka
