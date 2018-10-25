@@ -5,31 +5,6 @@ spring:
 kafka:
   topics:
     -
-      name: testing-auto-setup
-      num-partitions: 1
-      replication-factor: 1
-    -
-      name: another-test
-      num-partitions: 1
-      replication-factor: 1
-    -
-      name: another-test2
-      num-partitions: 1
-      replication-factor: 1
-    -
-      name: another-test3
-      num-partitions: 1
-      replication-factor: 1
-    -
-      name: another-test4
-      num-partitions: 1
-      replication-factor: 1
-    -
-      name: some-test6
-      num-partitions: 1
-      replication-factor: 1
-    -
-      name: some-test7
-      num-partitions: 1
-      replication-factor: 1
-      
+      name: infosys.rss
+      num-partitions: 4
+      replication-factor: 1     
