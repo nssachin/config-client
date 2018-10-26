@@ -24,4 +24,4 @@ app:
       name: Investor
       Description: Get the latest updates from Information Technology(IT)/ Business Consulting and Outsourcing Services
       path: /investors
-type: infosys.investors
+      type: infosys.investors
