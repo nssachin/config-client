@@ -4,7 +4,7 @@ spring:
   data:
     mongodb:
       username: sachin
-      password: nexus
+      password: {cipher}7d146093387ef179c9b0c1f86c573d800d18bfb5a9ec13f69f6df61466b14296
       database: feedDB
       host: localhost
       port: 27017
