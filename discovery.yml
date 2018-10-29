@@ -10,7 +10,7 @@ server:
 # Not a client, don't register with yourself
 eureka:
   instance:
-    hostname: localhost
+    hostname: 192.168.99.100
   client:
     fetch-registry: false
     register-with-eureka: false
