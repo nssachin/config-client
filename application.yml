@@ -6,7 +6,7 @@ spring:
       username: sachin
       password: '{cipher}7d146093387ef179c9b0c1f86c573d800d18bfb5a9ec13f69f6df61466b14296'
       database: feedDB
-      host: localhost
+      host: 192.168.99.100
       port: 27017
       authentication-database: feedDB
 db:
