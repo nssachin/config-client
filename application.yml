@@ -1,6 +1,7 @@
 spring:
   kafka:
     bootstrap-servers: localhost:9092
+    topics: infosys.rss
   data:
     mongodb:
       username: sachin
