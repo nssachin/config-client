@@ -17,4 +17,4 @@ db:
 eureka:
   client:
     service-url:
-      defaultZone: http://192.168.99.100:8082/eureka
+      defaultZone: http://192.168.99.100:8082/eureka/
