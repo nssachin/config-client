@@ -20,5 +20,5 @@ eureka:
       defaultZone: http://192.168.99.100:8082/eureka/
   instance:
     preferIpAddress: true
-    ip-address:192.168.99.100
+    ip-address: 192.168.99.100
 
